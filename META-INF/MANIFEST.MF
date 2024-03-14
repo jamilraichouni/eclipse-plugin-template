@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Eclipse Plugin Template
+Bundle-SymbolicName: org.db.eclipse.template;singleton:=true
+Bundle-Version: 0.0.1
+Automatic-Module-Name: db
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-ClassPath: .
+Bundle-Vendor: DB InfraGO AG
+Require-Bundle: org.eclipse.core.runtime,
+                org.eclipse.ui
